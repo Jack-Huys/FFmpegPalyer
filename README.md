@@ -1,0 +1,2 @@
+# FFmpegPalyer
+基于QT和ffmpeg的一个简易播放器，目前仅支持播放本地视频文件
